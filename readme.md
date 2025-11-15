@@ -21,7 +21,6 @@ Main features include: adding, displaying, deleting, and marking tasks as comple
 - **User Interface**: simple and intuitive Tkinter UI (uses `ttk.Treeview` for display).  
 
 ---
-
 ## 🛠️ Tech Stack
 - Python 3.8+  
 - Tkinter (included with Python)  
